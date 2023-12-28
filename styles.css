@@ -9,7 +9,9 @@
     overflow-x: hidden;
     overflow-y: auto;
 }
-
+.heading{
+    color: goldenrod;
+}
 .container {
     height: 100%;
     max-width: 1200px;
